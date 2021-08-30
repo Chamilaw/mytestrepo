@@ -1,22 +1,16 @@
 # mytestrepo
 
 test2
-test2
-test2
-test2
-test2
-test2
-test2
-test2
-test2
-test2
-test1
-test1
-test1
-test1
-test1
-test1
-test1
-test1
-test1
-
+test7
+test7test7
+test7
+test7
+test7
+test7
+test7
+test7
+test7
+test7
+test7
+test7
+test7
